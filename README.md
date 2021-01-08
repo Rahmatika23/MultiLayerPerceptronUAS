@@ -1,14 +1,9 @@
+Thanks to him who has helped me to do the exams because of this pandemic I was not taught properly and correctly, I felt that studying self-taught was not a lecture. I dont quite understand :)  https://github.com/filipecalasans/mlp
+
 # Multilayer Perceptron (MLP)
 
-A multilayer perceptron (MLP) is a class of feed-forward artificial neural network(NN). A MLP consists of, at least, three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function (Wikipedia).
+MLP is a Supervised Machine Learning that can solve problems that are not lineary separable. So that these advantages can be used to solve problems that the Single Layer Perceptron cannot build. Simple problems that can be solved by MLP include XOR logic problems.(yunusmuhammad007) A multilayer perceptron (MLP) is a class of feed-forward artificial neural network(NN). A MLP consists of, at least, three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function (Wikipedia).
 
-In this repository, I present the mathematical formulation and implementation in Python of a MLP. I also train and validate the algorithm against three different data sets, presenting practical examples of how to use MLP to classify data.
-
-# Preamble 
-
-You may be asking yourself: why do we need another Perceptron/MLP explanation in the internet? This repository provides my thought process after reading several materials when I tried to implement a MLP myself. At the time, I was able to understand and implement it only after a lot of reading, and trial and error. So, as I felt the necessity to be exposed to different ways of explaining the same topic, I think others may face the same situation.
-
-Hope this document can help you on your learning journey. Good Luck !
 
 # Mathematical Formulation
 
@@ -16,7 +11,7 @@ MLPs are composed by mathematical neurons and its synapses, in this case called 
 
 ## *Perceptron*
 
-Many of the concepts utilized in this articles are explained in the [Perceptron](https://github.com/filipecalasans/percepetron) repository. So, you may want to check it out before continuing to the MLP formulation. Perceptron is the simplest Neural Network composed of a single neuron that helps us to build the theoretical foundation for MLPs. However, if you already have solid understanding of the mathematic concepts used on *Perceptrons*, feel free to skip to the next section.
+Many of the concepts utilized in this articles are explained in the [Perceptron] (https://github.com/filipecalasans/percepetron) repository. Perceptron is the simplest Neural Network composed of a single neuron that helps us to build the theoretical foundation for MLPs. 
 
 # Topology 
 
