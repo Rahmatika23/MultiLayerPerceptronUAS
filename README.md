@@ -1,8 +1,8 @@
-Thanks to him who has helped me to do the exams because of this pandemic I was not taught properly and correctly, I felt that studying self-taught was not a lecture. I dont quite understand :)  https://github.com/filipecalasans/mlp
+Thanks to him who has helped me to do the exams because of this pandemic I was not taught properly and correctly, I felt that studying self-taught was not a lecture. I dont quite understand :)  https://github.com/filipecalasans/mlp.
 
 # Multilayer Perceptron (MLP)
 
-MLP is a Supervised Machine Learning that can solve problems that are not lineary separable. So that these advantages can be used to solve problems that the Single Layer Perceptron cannot build. Simple problems that can be solved by MLP include XOR logic problems.(yunusmuhammad007) A multilayer perceptron (MLP) is a class of feed-forward artificial neural network(NN). A MLP consists of, at least, three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function (Wikipedia).
+MLP is a Supervised Machine Learning that can solve problems that are not lineary separable. So that these advantages can be used to solve problems that the Single Layer Perceptron cannot build. Simple problems that can be solved by MLP include XOR logic problems (yunusmuhammad007). A multilayer perceptron (MLP) is a class of feed-forward artificial neural network(NN). A MLP consists of, at least, three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function (Wikipedia).
 
 
 # Mathematical Formulation
