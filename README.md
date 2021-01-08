@@ -31,7 +31,7 @@ The topology is composed of:
 
 ## Notation
 
-We are going to use the following notation across this article:
+Here is the notation we will use :
 
 * <img src="/tex/e7aef05c93fc141752370e7884d53cf7.svg?invert_in_darkmode&sanitize=true" align=middle width=22.523917349999987pt height=27.6567522pt/>: Weight connection between the Neuron number <img src="/tex/36b5afebdba34564d884d347484ac0c7.svg?invert_in_darkmode&sanitize=true" align=middle width=7.710416999999989pt height=21.68300969999999pt/> of the layer <img src="/tex/abf17eec3c78fcd0a21c1803f1ad3c5a.svg?invert_in_darkmode&sanitize=true" align=middle width=39.49764389999999pt height=22.465723500000017pt/> (previous layer) and Neuron number <img src="/tex/77a3b857d53fb44e33b53e4c8b68351a.svg?invert_in_darkmode&sanitize=true" align=middle width=5.663225699999989pt height=21.68300969999999pt/> of the layer <img src="/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/> (current layer).
 * <img src="/tex/3cf887b76cd63f28a0b450e37d0b0957.svg?invert_in_darkmode&sanitize=true" align=middle width=16.073120249999988pt height=27.6567522pt/> neuron bias <img src="/tex/77a3b857d53fb44e33b53e4c8b68351a.svg?invert_in_darkmode&sanitize=true" align=middle width=5.663225699999989pt height=21.68300969999999pt/> of the layer <img src="/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/> 
